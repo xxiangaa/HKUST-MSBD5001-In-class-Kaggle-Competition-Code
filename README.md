@@ -4,7 +4,7 @@ HKUST MSBD5001 In-class Kaggle Competition Code
 Programming languages：
 Python
 
-required packages：
+Required packages：
 import numpy
 import pandas
 import numpy
